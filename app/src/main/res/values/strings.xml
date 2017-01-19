@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Zentrum Familie</string>
+    <string name="description">Das Zentrum Familie bietet ein
+        vielseitiges Bildungsangebot zu aktuellen Themen rund
+        um Familie, Erziehung und Elternsein. Wir möchten Eltern
+        partnerschaftlich darin unterstützen, die Entwicklung
+        ihres Kindes aktiv zu begleiten!</string>
+    <string name="address">Eschenheimer Anlage 21,\n60318 Frankfurt am Main</string>
+    <string name="phone">+49 69 1501-138</string>
+    <string name="web">www.hdv-ffm.de</string>
+
+</resources>
