@@ -13,7 +13,8 @@
         android:layout_weight="375">
         <ImageView
             style="@style/Image"
-            android:src="@drawable/kids"/>
+            android:src="@drawable/kids"
+            android:contentDescription="@string/image"/>
         <TextView
             style="@style/Header"
             android:text="@string/app_name"/>
@@ -29,9 +30,10 @@
             android:text="@string/description" />
         <TextView
             style="@style/Text"
-            android:autoLink="map"
+            android:onClick="openMap"
             android:drawableLeft="@drawable/ic_location_on_black_36dp"
-            android:text="@string/address" />
+            android:text="@string/address"
+            android:textColor="@color/colorPrimary"/>
         <TextView
             style="@style/Text"
             android:autoLink="phone"
